@@ -9,7 +9,8 @@ public class Sub {
 		int result;
 		 
 		result=veriable1 -veriable2;
-		System.out.print(+result);
+		System.out.println(+result);
+		System.out.print("Third commit");
 
 	}
 
